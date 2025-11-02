@@ -27,8 +27,6 @@ latest_posts:
 ---
 
 
-Founded in January 2024 at the School of Interdisciplinary Studies, Lingnan University (Hong Kong SAR), we develop text-based representations and generative-AI methods for inverse solid-state materials design. Our [SLICES](https://www.nature.com/articles/s41467-023-42870-7) representation—an invertible, symmetry-invariant crystallographic string—powers [MatterGPT](https://arxiv.org/abs/2408.07608), a transformer that proposes novel crystals with multi-property targets.
-
 Use the links above to learn more about our research, team and opportunities. For inquiries, email <hangxiao@ln.edu.hk> or DM us on [Bilibili](https://space.bilibili.com/398676911).
 
 
